@@ -1,0 +1,9 @@
+# Logs
+*.log
+
+# Custom config
+config/*
+!config/default*
+
+# Node module
+node_modules
