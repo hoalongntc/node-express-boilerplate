@@ -15,7 +15,7 @@ git clone git@github.com:hoalongntc/node-express-boilerplate.git myApp
 cd myApp
 npm install
 
-git clone git@github.com:hoalongntc/angular-gulp-browserify.git public
+git clone git@github.com:hoalongntc/agb-browserify.git public
 cd public
 npm install
 bower install
